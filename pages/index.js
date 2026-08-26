@@ -1,5 +1,5 @@
 function Home (){
-    return <h1>Wdeane Eu Amo Você! Se Você me ama me dá um risadinha!</h1>
+    return <h1>Jonil é um programador inteligente!</h1>
 }
 
 export default Home;
